@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcb2064a-0acb-4fa5-9e2c-4cc6e13cfbcf" name="Changes" comment="add jcalendar and some file">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_installer_web_community_8_0_40.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_installer_web_community_8_0_401.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Connectionn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/management/system/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bank.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bank/management/system/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/management/system/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bank/management/system/SignupOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/management/system/SignupOne.java" afterDir="false" />
-    </list>
+    <list default="true" id="dcb2064a-0acb-4fa5-9e2c-4cc6e13cfbcf" name="Changes" comment="add signup page and some file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +50,6 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/HP/IdeaProjects/mysql-connector-j-9.1.0",
@@ -207,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736145053186</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add signup page and some file">
+      <option name="closed" value="true" />
+      <created>1736269989302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736269989302</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,7 +220,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding login and signup page" />
     <MESSAGE value="add jcalendar and some file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add jcalendar and some file" />
+    <MESSAGE value="add signup page and some file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add signup page and some file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
